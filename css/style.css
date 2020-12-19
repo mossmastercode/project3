@@ -1,0 +1,7 @@
+html,body{
+  font-family: 'Montserrat', sans-serif;
+}
+header{
+position:fixed;
+top: 0;
+}
